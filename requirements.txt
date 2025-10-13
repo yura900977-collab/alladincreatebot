@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+pandas==2.2.2
+matplotlib==3.9.1
+openai==1.40.0
+pytz
