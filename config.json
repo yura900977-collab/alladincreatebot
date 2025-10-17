@@ -1,11 +1,1 @@
-{
-  "TELEGRAM_TOKEN": "сюда_вставь_свой_токен_бота",
-  "OPENAI_API_KEY": "сюда_вставь_API_ключ_OpenAI",
-  "TIMEZONE": "Europe/Moscow",
-  "SESSIONS": [
-    {"name": "Asia", "start": "02:00", "end": "10:00"},
-    {"name": "Europe", "start": "10:00", "end": "18:00"},
-    {"name": "US", "start": "16:30", "end": "00:30"},
-    {"name": "AfterHours", "start": "00:30", "end": "02:00"}
-  ]
-}
+
